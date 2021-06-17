@@ -1,3 +1,3 @@
 # FourxShop
 
-Tugas Kelompok
+Tugas Kelompok.
